@@ -4,7 +4,7 @@
 ## Project Proposal
 The purpose of this study is to perform Bayesian deconvolution methods on bulk RNA sequencing data from equine sarcoid tumor samples.
 
-###Aim
+### Aim
 Adapt exisitng code for the application of Bayesian modelling for RNA sequencing in oncology to bulk RNA sequencing data in equine sarcoid tumors (and hopefully sn-RNA-seq if we get it to work asap)
 
 ### Source
