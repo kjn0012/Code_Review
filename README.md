@@ -9,6 +9,7 @@ Adapt exisitng code for the application of Bayesian modelling for RNA sequencing
 
 ### Source
 Chu, T., Wang, Z., Pe’er, D. et al. Cell type and gene expression deconvolution with BayesPrism enables Bayesian integrative analysis across bulk and single-cell RNA sequencing in oncology. Nat Cancer 3, 505–517 (2022). https://doi.org/10.1038/s43018-022-00356-3
+
 GitHub: https://github.com/Danko-Lab/BayesPrism.git
 
 ## Data
